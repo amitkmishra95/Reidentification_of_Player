@@ -13,15 +13,7 @@ This project performs **object re-identification** (re-ID) in a **single-camera 
 - Export tracking details as CSV with object ID, class, bounding boxes, and frame number.
 - Analyze appearance time of each tracked entity.
 
----
 
-## 📂 Project Structure
-
-├── option_2_re_identification_in_single_feed.py
-├── best.pt # Custom YOLOv11 model (uploaded in runtime)
-├── 15sec_input_720p.mp4 # Input video (uploaded in runtime)
-├── reid_output.mp4 # Output annotated video (generated)
-├── tracking_data.csv # Output CSV with frame-wise tracking data
 
 
 ---
